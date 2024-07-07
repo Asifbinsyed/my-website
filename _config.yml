@@ -1,7 +1,7 @@
 title: Researcher
 url: "https://asifbinsyed.com"
 baseurl: "/researcher"
-
+theme: jekyll-theme-minimal
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
